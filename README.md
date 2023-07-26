@@ -8,6 +8,6 @@ The budget is for 2021 and we actually look 2 years back in time when we do anal
 Let me know if you need anything else.
 
 ## Data Source:
-The data used in this project were all gotten from the Adventure work sample database in SQL Server management system.
+The data used for this project were all gotten from the Adventure work sample database in SQL Server management system.
 
 ### Enjoy
